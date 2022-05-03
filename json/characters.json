@@ -5,7 +5,7 @@
                 "ja": "ノノミ",
                 "en": "Nonomi",
                 "ko": "노노미",
-                "zh": "野宫"
+                "zh": "野乃美"
             },
             "last_name": {
                 "ja": "十六夜",
@@ -31,7 +31,7 @@
                 "ja": "セリカ",
                 "en": "Serika",
                 "ko": "세리카",
-                "zh": "芹夏"
+                "zh": "茜香"
             },
             "last_name": {
                 "ja": "黒見",
@@ -86,12 +86,14 @@
             "first_name": {
                 "ja": "シロコ",
                 "en": "Shiroko",
-                "ko": "시로코"
+                "ko": "시로코",
+                "zh": "白子"
             },
             "last_name": {
                 "ja": "砂狼",
                 "en": "Sunaookami",
-                "ko": "스나오오카미"
+                "ko": "스나오오카미",
+                "zh": "砂狼"
             }
         },
         "school": "abydos",
@@ -111,12 +113,14 @@
             "first_name": {
                 "ja": "ホシノ",
                 "en": "Hoshino",
-                "ko": "호시노"
+                "ko": "호시노",
+                "zh": "星野"
             },
             "last_name": {
                 "ja": "小鳥遊",
                 "en": "Takanashi",
-                "ko": "타카나시"
+                "ko": "타카나시",
+                "zh": "小鸟游"
             }
         },
         "school": "abydos",
